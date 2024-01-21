@@ -15,7 +15,7 @@ An eBook.
 The API should exclude the common words from the index.
 
 ## Design Rationale
-I maked an application that comprised of classes that could be used as independent modules. 
+I made an application that comprised of classes that could be used as independent modules. 
 Each module provides a function that is accessible to other modules (classes) though a constructor and or one public method.
 
 ## Workflow and Comments
