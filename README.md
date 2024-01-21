@@ -2,17 +2,14 @@
 ## About
 I built this application for a college project. The assignment required students to design and develop a multithreaded indexing API in Java 19+ that allowed a word index to be created from an e-book. 
 
-## Notes about the Assignment
-The application should parse a specified e-book using virtual threads and then build an index by examining every word in each sentence. 
-
-The index should contain a list of words that relate to the page numbers on which they appear and the dictionary defined meaning of each word. 
-
-The API should also parse and process three files: 
-A dictionary file
-A list of common words
-An eBook.
-
-The API should exclude the common words from the index.
+### Notes about the Assignment
+- The application should parse a specified e-book using virtual threads and then build an index by examining every word in each sentence.
+- The index should contain a list of words that relate to the page numbers on which they appear and the dictionary defined meaning of each word.
+- The API should also parse and process three files:
+  - A dictionary file
+  - A list of common words
+  - An eBook.
+- The API should exclude the common words from the index.
 
 ## Design Rationale
 I made an application that comprised of classes that could be used as independent modules. 
