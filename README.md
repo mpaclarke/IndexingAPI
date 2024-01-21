@@ -49,3 +49,24 @@ Each module provides a function that is accessible to other modules (classes) th
 - Save() in the Utils interface uses String.format() to format the output (Shubham 2020).
 - ApplicationInterface uses the ConsoleColour enum to enhance the user interface.
 - Validation in the Utils class prevents the app from executing if a field is not complete.
+
+## References
+Baeldung (2022) Using the Map.Entry Java, 27 June, available https://www.baeldung.com/java-map- entry [accessed26 December 2022].
+
+Coding Cleverly (2022) Dictionary Program in Java | Using HashMap in Java | Java Project, YouTube, available https://www.youtube.com/watch?v=73zZe9j1III&ab_channel=CodingCleverly [accessed 27 December 2022].
+
+Healy, J. (2022a) Indexing the words of a book with a map, 51848, Advanced Object Orientated Software Development, available: https://web.microsoftstream.com/video/3d84f117-a777-43c1- b176-5687520eedb4 [accessed 01 December 2022].
+
+Healy, J. (2022b) Using Virtual Threads & Structured Concurrency, 51848, Advanced Object Orientated Software Development, available: https://web.microsoftstream.com/video/cfc481bb- 46a5-473f-b728-1e24fb94835a?referrer=https:%2F%2Fvlegalwaymayo.atu.ie%2F [accessed 15 December 2022].
+
+Ireeder, A. (2014), Reading a text file and skipping blank lines, Stack Overflow, 06 April, available https://stackoverflow.com/questions/22889561/reading-text-file-and-skipping-blank-lines-until-eof- is-reached [accessed 18December 2022].
+
+Klimek, B. (2009) Checking contents of a map in another map in java, Stack Overflow, 07 May, available https://stackoverflow.com/questions/833379/checking-contents-of-a-map-in-another- map-in-java [accessed 20 December 2022].
+
+Lee, A. (2020) Java: Read a CSV file into an Array, YouTube, available https://www.youtube.com/watch?v=-Aud0cDh-J8&ab_channel=AlexLee [accessed 10 December 2022].
+
+Shubham, S. (2020) How to pad a String in Java, Geeks For Geeks, 04 April, available https://www.geeksforgeeks.org/how-to-pad-a-string-in-java/ [accessed 17 December 2022].
+
+Techie Delight (n.d.) Sort Map in Java by reverse ordering of its keys, available https://www.techiedelight.com/sort-map-java-reverse-ordering-keys/ [accessed 29 December 2022].
+
+Verma, J. (2022) How to Sort a HashMap by Value in Java, Digital Ocean, 03 August, available https://www.digitalocean.com/community/tutorials/sort-hashmap-by-value-java#sorting-hashmap- by-value-simple-example [accessed 29 December 2022].
